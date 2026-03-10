@@ -1,0 +1,1 @@
+Today I learned how SQL aggregate functions help summarize information instead of just displaying individual rows from a table. I practiced using functions like COUNT, SUM, AVG, MIN, and MAX, which make it possible to analyze data more easily for example, counting how many records exist, calculating totals, or finding the average value in a column.
